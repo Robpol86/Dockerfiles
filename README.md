@@ -1,5 +1,6 @@
 # Dockerfiles
-Houses all of my Dockerfiles for different platforms/purposes/etc.
+
+Houses Fedora Dockerfiles used for building RPMs.
 
 Nothing special here. I mostly use these to build RPMs and other packages in Travis but they can be
 used anywhere really.
