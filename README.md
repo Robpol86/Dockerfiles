@@ -1,8 +1,10 @@
-# Dockerfiles
+# Fedora Dockerfiles (RPM Dev Tools)
 
-Houses Fedora Dockerfiles used for building RPMs.
+Fedora Dockerfiles for use cases that need "Development Tools" group packages and "rpmdevtools".
 
-Nothing special here. I mostly use these to build RPMs and other packages in Travis but they can be
-used anywhere really.
+No additional repositories added to DNF.
 
-Actual Dockerfiles are in different branches. This is how Docker Hub does tagging.
+Supported Docker tags and their respective `Dockerfile` links:
+
+* 23 [(Dockerfile)](https://github.com/Robpol86/Dockerfiles-RPMDevTools-Fedora/blob/23/Dockerfile)
+* 22 [(Dockerfile)](https://github.com/Robpol86/Dockerfiles-RPMDevTools-Fedora/blob/22/Dockerfile)
